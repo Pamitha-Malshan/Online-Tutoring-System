@@ -1,0 +1,44 @@
+--------------------------html--------------------------
+<table>
+	 <tr>
+		<th>
+        <img src="/image/icon.png" width="260px" height="270px" class="image">
+        </th>
+		<th>
+	    <center>
+        <p>Tutoring Tube - Online Tutoring</p>
+        </center>
+        </th>
+		<th>
+			
+		<img src="/image/log.jpg" width="100px" height="100px" class="log">
+            
+            </br>
+		     <a href="/">
+			 <button class="but">My Account</button>
+			 </a>
+             </br>
+             </br>
+			 <a href="/">
+			 <button class="but">Log out</button>
+			 </a>
+        </th>
+    </tr>
+</table>
+
+-------------------css----------------------------
+p{
+  font-size:45px;
+  margin: 10px 180px 10px 130px;
+}
+.image{
+  margin:-25px 100px -50px 30px;
+}
+.log{
+  border-radius:50px;
+}
+.but{
+  background-color:darkgrey;
+  border-radius:15px;
+  width: 170px;
+}

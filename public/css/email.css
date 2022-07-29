@@ -1,0 +1,8 @@
+body{
+
+    background-image:linear-gradient(rgba(253, 253, 253, 0.4),rgba(0,0,0,0.4)),url(/img/img3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+}
